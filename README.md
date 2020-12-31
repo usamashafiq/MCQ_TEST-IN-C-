@@ -1,0 +1,2 @@
+# MCQ_TEST-IN-C-
+*Create a structure that can store a MCQ. Following things need to be stored o Question o Four options for answer o Correct answer Create a mcq instance in main and store following data statically. Question: What is Capital of Pakistan? a) Karachi b) Quetta c) Lahore d) Islamabad  Correct answer: Islamabad Show Question and options in the format given. Prompt the user for the answer. Compare the user answer with correct answer and show correct/incorrect accordingly
